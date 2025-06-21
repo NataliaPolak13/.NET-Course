@@ -484,3 +484,5 @@ $RECYCLE.BIN/
 *.swp
 API/appsettings.json
 API/reactivities.db
+client/.vite/deps/_metadata.json
+client/.vite/deps/package.json
